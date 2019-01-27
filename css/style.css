@@ -1,0 +1,113 @@
+body html{
+    padding: 0;
+    margin: 0; }
+
+.cover {
+    background-image:url('https://previews.123rf.com/images/leonori/leonori1606/leonori160600002/58901834-fresh-fruits-fruit-background-.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 87px;
+    width: 100%;
+    height: 450px;
+    padding: 50px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box; }
+
+.olik {
+    font-size: 6em;
+    font-family: 'Staatliches', cursive;
+    color: #fff;
+    position: relative;
+    top: 40%;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, .6); }
+
+.oroil {
+    color: rgb(34, 50, 95);
+    font-size: 4em;
+    font-family: 'Staatliches', cursive;
+    margin-left: 150px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .5); }
+.title1 {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 2em; }
+
+.text1 {
+    font-family: 'ZCOOL QingKe HuangYou', cursive; }
+
+.big1 {
+    display: inline-block;
+    width: 600px;
+    padding: 5px;    
+    background-color: #eee;
+    margin-left: 150px;
+    text-align: justify; }
+ .big2 {
+    display: inline-block;
+    width: 600px;
+    padding: 5px;   
+    background-color: #eee;
+    text-align: justify; }
+.big3 {
+    display: inline-block;
+    width: 600px;
+    padding: 5px;    
+    background-color: #333;
+    margin-left: 150px;
+    margin-top: 5px ;
+    text-align: justify }
+.title2 { 
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 2em;
+    color: #eee ; }
+.text2 {
+    font-family: 'ZCOOL QingKe HuangYou', cursive; 
+    color: #eee ; }
+.big4 {
+    display: inline-block;
+    width: 600px;
+    padding: 5px;    
+    background-color: #333;
+    text-align: justify }
+.big5 {
+    display: inline-block;
+    width: 600px;
+    padding: 5px;    
+    background-color: #eee;
+    margin-left: 150px;
+    text-align: justify; }
+.big6 {     
+    display: inline-block;
+    width: 600px;
+    padding: 5px;   
+    background-color: #eee;
+    text-align: justify; }
+.big1:hover {
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, .5); */
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;}
+.big2:hover {
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, .5); */
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;}
+ .big3:hover {
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, .5); */
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;}
+.big4:hover {
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, .5); */
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;}
+.big5:hover {
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, .5); */
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;}
+.big6:hover {
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, .5); */
+    outline: 6px solid rgb(0, 0, 0);
+    transition: all .3s;
+    outline-offset: -6px;}
